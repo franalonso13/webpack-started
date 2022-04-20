@@ -1,8 +1,8 @@
-#Webpack started
+# Webpack started
 
 Este es el proyecto inicial para crear aplicaciones utilizando webpack
 
- ###Notas:
+ ### Notas:
 
  Recuerden reconstruir los módulos de Node
 
